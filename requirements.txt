@@ -1,0 +1,6 @@
+torch
+scikit-learn
+seqeval
+matplotlib
+tqdm
+numpy
